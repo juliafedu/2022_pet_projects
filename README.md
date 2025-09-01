@@ -1,4 +1,4 @@
-# Pet projects in 2022
+# Pet projects 
 ## Content
 | Name  | Task | Solution
 | ----- | ---- | ------- |
